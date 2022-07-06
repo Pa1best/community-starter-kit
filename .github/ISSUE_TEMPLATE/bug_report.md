@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug]"
+title: "[Bug] Title"
 labels: bug
 assignees: Pa1best
 
@@ -22,6 +22,7 @@ A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots or gif animation to help explain your problem.
+[How to add Image](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files)
 
 **Revit version:**
 Write Revit version in which the bug happened
